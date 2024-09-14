@@ -1,0 +1,11 @@
+body {
+  font-family: roboto, arial;
+  font-size: large;
+}
+.logo {
+  height: 43px;
+}
+
+.navbar-brand {
+  font-size: 17px;
+}
